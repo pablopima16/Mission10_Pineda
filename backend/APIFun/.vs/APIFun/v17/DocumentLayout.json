@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\ztblweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\ztblweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\ztblskiplabelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\ztblskiplabelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\ztblbowlerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\ztblbowlerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|c:\\users\\pablo\\source\\repos\\fullstackfun\\backend\\apifun\\data\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED1651C-9D30-46D4-A65D-9CEA76B2ABF6}|APIFun.csproj|solutionrelative:data\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:52:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T20:35:29.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T20:34:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\Bowler.cs",
+              "RelativeToolTip": "Data\\Bowler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:33:30.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:33:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:32:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZtblWeek.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblWeek.cs",
+              "RelativeDocumentMoniker": "Data\\ZtblWeek.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblWeek.cs",
+              "RelativeToolTip": "Data\\ZtblWeek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:32:25.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZtblSkipLabelcs.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblSkipLabelcs.cs",
+              "RelativeDocumentMoniker": "Data\\ZtblSkipLabelcs.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblSkipLabelcs.cs",
+              "RelativeToolTip": "Data\\ZtblSkipLabelcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:31:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZtblBowlerRating.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblBowlerRating.cs",
+              "RelativeDocumentMoniker": "Data\\ZtblBowlerRating.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\ZtblBowlerRating.cs",
+              "RelativeToolTip": "Data\\ZtblBowlerRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:31:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourneyMatch.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\TourneyMatch.cs",
+              "RelativeDocumentMoniker": "Data\\TourneyMatch.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repos\\FullStackFun\\backend\\APIFun\\Data\\TourneyMatch.cs",
+              "RelativeToolTip": "Data\\TourneyMatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:28:59.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
